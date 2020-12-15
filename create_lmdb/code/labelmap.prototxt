@@ -1,0 +1,20 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "Apple"
+  label: 1
+  display_name: "Apple"
+}
+item {
+  name: "Banana"
+  label: 2
+  display_name: "Banana"
+}
+item {
+  name: "Orange"
+  label: 3
+  display_name: "Orange"
+}

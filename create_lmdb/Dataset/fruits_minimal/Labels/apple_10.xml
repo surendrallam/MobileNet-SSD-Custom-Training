@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>apple_10.jpg</filename>
+	<path>C:\Users\shash\OneDrive\Desktop\images\apple_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>42</ymin>
+			<xmax>1450</xmax>
+			<ymax>1429</ymax>
+		</bndbox>
+	</object>
+</annotation>

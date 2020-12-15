@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>banana_2.jpg</filename>
+	<path>C:\Users\shash\OneDrive\Desktop\images\banana_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>48</ymin>
+			<xmax>907</xmax>
+			<ymax>786</ymax>
+		</bndbox>
+	</object>
+</annotation>
