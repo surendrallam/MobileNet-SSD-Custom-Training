@@ -5,7 +5,7 @@ if ! test -f example/MobileNetSSD_train.prototxt ;then
         exit 1
 fi
 mkdir -p snapshot
-/home/surendra/surendra/ssd/caffe_wille/build/tools/caffe train -solver="solver_train.prototxt" \
+../caffe/build/tools/caffe train -solver="solver_train.prototxt" \
 -weights="examples/mobilenet_iter_73000.caffemodel" \
 #-snapshot="snapshot/mobilenet_iter_10.solverstate"
 #-cpu 0 

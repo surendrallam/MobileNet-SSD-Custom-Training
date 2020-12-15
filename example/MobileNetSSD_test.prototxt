@@ -21,7 +21,7 @@ layer {
     }
   }
   data_param {
-    source: "/home/surendra/surendra/MobileNet-SSD/create_lmdb/Dataset/fruits_minimal/fruits_minimal/lmdb/fruits_minimal_test_lmdb/"
+    source: "create_lmdb/Dataset/fruits_minimal/fruits_minimal/lmdb/fruits_minimal_test_lmdb/"
     batch_size: 8
     backend: LMDB
   }
